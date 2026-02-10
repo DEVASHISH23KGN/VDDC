@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VDDC</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h2>VDDC</h2>
+
+<select id="species">
+  <option value="">Select Species</option>
+</select>
+
+<input type="number" id="weight" placeholder="Body weight (kg)" step="0.1">
+
+<select id="group">
+  <option value="">Select Drug Group</option>
+</select>
+
+<select id="drug">
+  <option value="">Select Drug</option>
+</select>
+
+<div class="result" id="output"></div>
+
+<hr>
+
+<h3>Custom / Vial Based Calculation</h3>
+
+<input type="number" id="customMg" placeholder="Total drug to give (mg) – optional">
+<input type="number" id="vialMg" placeholder="Total drug in vial (mg)">
+<input type="number" id="vialMl" placeholder="Total vial volume (ml)">
+
+<div class="result" id="customOutput"></div>
+
+<hr>
+
+<h3>Manual Calculation</h3>
+<div class="result" id="manualOnlyOutput"></div>
+
+<!-- IMPORTANT: ORDER MATTERS -->
+<script src="drugs.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
+
