@@ -1,5 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => { const SHEET_ID = "14HY9sD31hufPtcSd5yGsunPsqtbMqo63drTNaQl_duc";
-const SHEET_URL = `https://opensheet.elk.sh/${SHEET_ID}/Sheet1`;
 const speciesSel = document.getElementById("species");
 const groupSel = document.getElementById("group");
 const drugSel = document.getElementById("drug");
@@ -100,9 +98,6 @@ customMgInput.oninput = customCalc;
 vialMgInput.oninput = customCalc;
 vialMlInput.oninput = customCalc;
 
-  // ALL your existing JS code goes INSIDE here
-
-});
-
   
+
 
