@@ -1,0 +1,5 @@
+species,group,drug,refMin,refMax,customDose,manualDose,manualConc,route
+canine,NSAID,Melonex,0.2 mg/kg,0.3 mg/kg,0.25,0.2,5,IV / SC
+feline,NSAID,Melonex,0.1 mg/kg,0.2 mg/kg,0.2,0.2,5,SC
+Bovine,NSAID,Melonex,0.1 mg/kg,0.2 mg/kg,0.15,0.1,5,SC
+canine,NSAID,pcm,1,2,1,1,1,po
