@@ -1,0 +1,20 @@
+species,group,drug,refMin,refMax,customDose,manualDose,manualConc,route
+Canine,NSAID,Melonex,0.2 mg/kg,0.3 mg/kg,0.25,0.2,5,IV / SC
+Feline,NSAID,Melonex,0.1 mg/kg,0.2 mg/kg,0.2,0.2,5,IV / SC
+Bovine,NSAID,Melonex,0.1 mg/kg,0.2 mg/kg,0.15,0.1,5,IV / SC
+Canine,NSAID,pcm,1,2,1,1,1,PO
+Canine,ANTACIDS,Rantidine,0.5,0.5,0.5,0.5,25,PO/IM/IV/SC
+Feline,ANTACIDS,Rantidine,0.5,0.5,0.5,0.5,25,PO/IM/IV/SC
+Canine,ANTACIDS,Omperazole,0.5,1.5,0.5,0.5,4,PO/IV
+Feline,ANTACIDS,Omperazole,0.75,1,0.5,0.5,4,PO
+Canine,Anti Diarrhoeals,Loperamide,0.1,0.1,0.1,0.1,2mg Tab,Oral 
+Feline,Anti Diarrhoeals,Loperamide,0.1,0.1,0.1,0.1,2mg Tab,Oral 
+Sheep/Goat,Anti Spasmodics,Dicyclomine,0.5,0.5,0.5,0.5,10,IM 
+Eqine,Anti Spasmodics,Dicyclomine,0.5,0.5,0.5,0.5,10,IM 
+Bovine,Anti Spasmodics,Dicyclomine,0.5,0.5,0.5,0.5,10,IM 
+Canine,Anti Spasmodics,Dicyclomine,0.1,0.1,0.1,0.1,10,IM 
+Canine,Anti Emetics,Domperidone,5,10,7.5,7.5,"10mg Tab, 1mg/ml Susp",BID Oral 
+Canine,Anti Emetics,Metoclopramide,0.2,0.4,0.3,0.3,5mg/ml ,IM /IV/SC/O
+Feline,Anti Emetics,Metoclopramide,0.2,0.4,0.3,0.3,5mg/ml ,IM /IV/SC/O
+Canine,Anti Emetics,Ondansetron,0.5,0.5,0.5,0.5,2mg/ml,IV /O
+Feline,Anti Emetics,Ondansetron,0.5,0.5,0.5,0.5,2mg/ml,IV /O
