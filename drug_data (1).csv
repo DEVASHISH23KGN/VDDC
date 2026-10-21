@@ -1,0 +1,27 @@
+species,group,drug,refMin,refMax,customDose,manualDose,manualConc,route
+Canine,NSAID,Melonex,0.1 mg/kg,0.2 mg/kg,0.2,0.2,5,"IV /IM/ SC q24; Vial: 2,15,30 ml "
+Feline,NSAID,Melonex,0.1 mg/kg,0.3 mg/kg,0.2,0.2,5,"IV / SC /IM q24; Vial: 2,15,30 ml "
+Eqine,NSAID,Melonex,0.6 mg/kg,0.6 mg/kg,0.6,0.6,5,"IV / SC/IM q12; Vial: 2,15,30 ml "
+Sheep/Goat,NSAID,Melonex,0.5 mg/kg,1 mg/kg,0.5,0.5,5,"IV / SC/IM q24; Vial: 2,15,30 ml "
+Bovine,NSAID,Melonex,0.1 mg/kg,0.2 mg/kg,0.15,0.1,5,"IV / SC/IM q24; Vial: 2,15,30 ml "
+Canine,NSAID,pcm,1,2,1,1,1,PO
+Canine,ANTACIDS,Rantidine,0.5,2,1,1,25,PO/IM/IV/SC q8 amp 2 ml
+Feline,ANTACIDS,Rantidine,0.5,0.5,0.5,0.5,25,PO/IM/IV/SC
+SA,Anti Spasmodics,Dicyclomine,0.1,0.1,0.1,0.1,10,IM TID 2ml
+LA,Anti Spasmodics,Dicyclomine,0.5,0.5,0.5,0.5,10,"IM TID 2ml amp, 30 ml vial"
+Canine,Anti Emetics,Ondansetron,0.1,0.2,0.15,0.15,2mg/ml,"IV /PO q6-12hr; amp 2,4 ml"
+Feline,Anti Emetics,Ondansetron,0.15,0.5,0.15,0.15,2mg/ml,IV /PO
+Canine,AB,Ceftriaxone TZ,15,25,20,20,,"Strict IV/IM q12-24; Pod. 562mg,2,3,4 g"
+Feline,AB,Ceftriaxone TZ,15,25,20,20,,"Strict IV/IM q12-24; Pod. 562mg,2,3,4 g"
+Eqine,AB,Ceftriaxone TZ,25,50,25,25,,"Strict IV/IM q12-24; Pod. 562mg,2,3,4 g"
+Sheep/Goat,AB,Ceftriaxone TZ,10,15,10,10,,"Strict IV/IM q12-24; Pod. 562mg,2,3,4 g"
+Bovine,AB,Ceftriaxone TZ,5,10,10,10,,"Strict IV/IM q12-24; Pod. 562mg,2,3,4 g"
+Canine,Anti Emetics,Prochlorperazine (Stemetil),0.5,0.1,0.5,0.5,12.5,Strict IM/PO q12-24 amp 1 ml
+Feline,Anti Emetics,Prochlorperazine (Stemetil),0.5,0.5,0.5,0.5,12.5,Strict IM/PO q12-24 amp 1 ml
+Canine,ANTACIDS,Pantoprazole,0.7,1.5,1,1,8,Strict IV q12; 40mg/5ml
+Feline,ANTACIDS,Pantoprazole,0.7,1,1,1,8,Strict IV q12; 40mg/5ml
+Calf(Cattle)/Sheep/Goat/Horse,ANTACIDS,Pantoprazole,1,1,1,1,8,Strict IV q12; 40mg/5ml
+ALL,Hemostatic,Ethamsylate,5,10,5,5,125,IV/IM QID amp 250mg/2ml
+Canine,Antiparasitic ,Ivermectin,0.2,0.3,0.2,0.2,10,SC/PO 1 Once a week for 1 month; 1% sol
+Feline,Antiparasitic ,Ivermectin,0.2,0.4,0.3,0.3,10,SC/PO 1 Once a week for 1 month; 1% sol
+Cattle/Sheep/Goat/Horse,Antiparasitic ,Ivermectin,0.2,0.2,0.2,0.2,10,SC Once; 1% sol
